@@ -25,7 +25,7 @@ const About = () => {
                     <div>
                         <p>
                             I am passionate about creating software that improves 
-                            the lives of those around me. I specialize in desinging and 
+                            the lives of those around me. I specialize in designing and 
                             developing unique user experiences while solving problems. I am 
                             passionate about programming, which fuels my drive to develop amazing 
                             applications.
