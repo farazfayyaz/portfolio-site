@@ -21,8 +21,7 @@ const Home = () => {
           <p className="text-[#8892b0] py-4 max-w-[700px]">
             I am a Frontend Developer with a strong passion for 
             developing, designing, and creating digital experiences. Currently, 
-            I am focused on building full-stack web experiences while expanding my 
-            backend skills.
+            I am focused on becoming a full-stack software engineer.
           </p>
 
           <div>
