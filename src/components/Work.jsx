@@ -2,7 +2,7 @@ import React from 'react'
 
 import Battleship from "../assets/battleship.jpg"
 import Weather from "../assets/weatherApp.png"
-import Kiosk from "../assets/kiosk.png"
+import Hakr from "../assets/hakrScreenshot.png"
 
 
 const Work = () => {
@@ -86,7 +86,7 @@ const Work = () => {
 
               {/**HAKR.MP# */}
 
-              <div style={{backgroundImage: `url(${Kiosk})`}} 
+              <div style={{backgroundImage: `url(${Hakr})`}} 
               className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center text-center items-center mx-auto content-div'>
 
                 {/**HOVER EFFECTS */}
