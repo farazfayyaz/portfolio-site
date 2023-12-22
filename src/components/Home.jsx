@@ -16,11 +16,11 @@ const Home = () => {
 
           <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">Faraz Fayyaz</h1>
 
-          <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">I'm a Full-Stack Software Engineer.</h2>
+          <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">I'm a Frontend Developer.</h2>
 
           <p className="text-[#8892b0] py-4 max-w-[700px]">
-            I am a Full-Stack Software Engineer with a strong passion for 
-            developing, designing, and creating digital experiences. Currently, 
+            I am a Frontend Developer expanding to Full-Stack, with a strong passion for 
+            designing and creating digital experiences. Currently, 
             interested in AI and emerging technologies.
           </p>
 
